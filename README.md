@@ -1,5 +1,9 @@
 <h2 align="left">Hi there!👋<br>I am Nirmal</h2>
-
+<pre>
+👀 I’m interested in AI ,Machine Learning ,Digital Marketing
+🌱 I’m currently studying Computer Science(CSE) FROM Woxsen University with specilisation in AI.
+💞️ I’m exploring the field of DSA and AI with python.
+</pre>
 ###
 
 <div align="center">
