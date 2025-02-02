@@ -4,7 +4,7 @@
 🌱 I’m currently studying Computer Science(CSE) FROM Woxsen University with specilisation in AI.
 💞️ I’m exploring the field of DSA and AI with python.
 </pre>
-###
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Neogenxx&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&custom_title=Stats" height="150" alt="stats graph"  />
