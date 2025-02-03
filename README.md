@@ -6,45 +6,66 @@
 
 <h2>🚀 About Me</h2>
 <pre>
-  Hi, I'm <strong>Nirmal</strong> a passionate developer exploring AI, ML, Web Development, and Digital Marketing.
+  Hi, I'm <strong>Nirmal</strong>, a passionate developer exploring AI, ML, Web Development, and Digital Marketing.
   Currently, I'm a BTech Computer Science student at Woxsen University. 
   My main focus is integrating AI into web apps and marketing.
 </pre>
 
-<h2>💻 Tech Stack</h2>
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-</p>
+---
 
-<h2>📊 GitHub Stats</h2>
+## **💻 Tech Stack**  
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=python" width="60" alt="Python">
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=html" width="60" alt="HTML5">
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=css" width="60" alt="CSS3">
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=mysql" width="60" alt="MySQL">
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=github" width="60" alt="GitHub">
+    </td>
+  </tr>
+</table>
+
+---
+
+## **📊 GitHub Stats**  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Neogenxx&show_icons=true&theme=tokyonight" width="400">
 </p>
 
-<h2>🔥 GitHub Streak</h2>
+## **🔥 GitHub Streak**  
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Neogenxx&theme=tokyonight" width="400">
 </p>
 
-<h2>📈 Most Used Languages</h2>
+## **📈 Most Used Languages**  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neogenxx&layout=compact&theme=tokyonight" width="400">
 </p>
+
+---
+
+## **🎥 Fun GIF Section**  
 <p align="center">
   <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="400">
 </p>
 
 ---
 
-<h2>🌍 Connect with Me</h2>
-<p>
-  <a href="https://www.linkedin.com/in/nirmal-choyal-c/" target="_blank">
+## **🌍 Connect with Me**  
+<p align="left">
+  <a href="https://www.linkedin.com/in/your-profile" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="mailto:ncworkspace@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  <a href="https://github.com/Neogenxx" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
 </p>
