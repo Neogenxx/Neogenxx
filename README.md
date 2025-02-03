@@ -28,11 +28,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Neogenxx&show_icons=true&theme=tokyonight" width="400">
 </p>
 
-<h2>🔥 GitHub Streak</h2>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Neogenxx&theme=tokyonight" width="400">
-</p>
-
 <h2>📈 Most Used Languages</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neogenxx&layout=compact&theme=tokyonight" width="400">
