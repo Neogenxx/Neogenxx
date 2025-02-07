@@ -6,7 +6,7 @@
 
 <h2>🚀 About Me</h2>
 <pre>
-  Hi, I'm <strong>Neogenxx</strong>, a passionate developer exploring AI, ML, Web Development, and Digital Marketing.
+  Hi, I'm <strong>Nirmal</strong>, a passionate developer exploring AI, ML, Web Development, and Digital Marketing.
   Currently, I'm a BTech Computer Science student at Woxsen University. 
   My main focus is integrating AI into web apps and marketing.
 </pre>
