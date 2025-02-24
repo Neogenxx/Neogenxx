@@ -40,7 +40,7 @@
 
 <h2>🌍 Connect with Me</h2>
 <p>
-  <a href="www.linkedin.com/in/nirmal-choyal-c" target="_blank">
+  <a href="https://www.linkedin.com/in/nirmal-choyal-c/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="ncworkspace@gmail.com">
