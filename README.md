@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Nirmal 👋</h1>
-<h3 align="center">AI / ML • Web Development • Digital Marketing • AI Product Builder</h3>
+<h3 align="center">AI / ML • AI Product Builder</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="200" />
@@ -9,11 +9,11 @@
 
 ## 🚀 About Me
 
-- 🎓 BTech CSE Student at **Woxsen University**
-- 🤖 Focused on building **AI-powered products**
-- 🌐 Interested in **AI + Web Apps + Marketing Automation**
-- 📌 Currently working on projects in **GenAI, RAG systems, and AI applications**
-- 🧠 Learning consistently through hands-on projects and challenges
+-  BTech CSE Student at **Woxsen University**
+-  Focused on building **AI-powered products**
+-  Interested in **AI + Web Apps Automation**
+-  Currently working on projects in **GenAI, RAG systems, and AI applications**
+-  Learning consistently through hands-on projects and challenges
 
 ---
 
@@ -28,45 +28,46 @@
 
 ## 💻 Tech Stack
 
-### Languages & Core
+###  AI / Machine Learning
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
 </p>
 
-### Tools & Workflow
+###  GenAI & NLP
+<p>
+  <img src="https://img.shields.io/badge/LLMs-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/RAG-4B0082?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/NLP-2E8B57?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
+</p>
+
+###  Web & Backend Basics
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+</p>
+
+###  Data & Storage
+<p>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSV%20%7C%20JSON-6A5ACD?style=for-the-badge"/>
+</p>
+
+###  Tools & Workflow
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-DA5B0B?style=for-the-badge&logo=jupyter&logoColor=white"/>
 </p>
 
 ---
 
-## 📌 Featured Projects
 
-⭐ Check out my pinned repositories for my best work.
-
-- 🧠 **AI Chatbots & RAG Projects**
-- 📊 **ML Regression & Data Science**
-- 🌐 **Web Apps + Automation Tools**
-- 🚀 **Hackathon Builds**
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Neogenxx&show_icons=true&theme=tokyonight" width="420" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neogenxx&layout=compact&theme=tokyonight" width="420" />
-</p>
-
----
 
 ## 🌍 Connect With Me
 
