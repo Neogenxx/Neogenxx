@@ -87,6 +87,4 @@
   <img src="https://giffiles.alphacoders.com/221/221910.gif" width="420" />
 </p>
 
-<p align="center">
-  <b>⚡ Building projects. Learning daily. Shipping consistently.</b>
-</p>
+
