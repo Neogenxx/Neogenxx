@@ -9,7 +9,10 @@
 
 ## 🚀 About Me
 
-I am Nirmal Choyal, a passionate AI/ML developer with a strong interest in building intelligent systems and real-world AI applications. My goal is to leverage machine learning and generative AI to create impactful, scalable solutions.
+Hi! I'm a Computer Science Engineering student at Woxsen University, focused on building real-world applications using machine learning and generative AI.
+I enjoy working on practical projects involving RAG systems, data-driven solutions, and backend APIs, while continuously improving my problem-solving and development skills.
+
+Currently exploring advanced RAG systems — still learning, so feedback is always welcome.
 
 🌱 I am currently learning more about **Generative AI, RAG systems, and applied ML projects**  
 👯 Open to collaborating on **AI-driven real-world projects**  
