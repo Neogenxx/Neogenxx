@@ -65,10 +65,6 @@ Currently exploring advanced RAG systems — still learning, so feedback is alwa
 </p>
 
 ---
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Neogenxx&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neogenxx&layout=compact&theme=tokyonight" height="150"/>
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Neogenxx&theme=tokyonight" height="150"/>
