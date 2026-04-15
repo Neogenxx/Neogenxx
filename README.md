@@ -10,7 +10,7 @@
 ## 🚀 About Me
 
 Hi! I'm a Computer Science student at Woxsen University, focused on building real-world applications using machine learning and generative AI.
-I enjoy working on practical projects involving RAG systems, data-driven solutions, and backend APIs, while continuously improving my problem-solving and development skills.
+I enjoy working on practical projects involving RAG systems, data driven solutions, and backend APIs, while continuously improving my problem solving and development skills.
 
 Currently exploring advanced RAG systems still learning, so feedback is always welcome.
 
@@ -23,10 +23,10 @@ Currently exploring advanced RAG systems still learning, so feedback is always w
 
 ## 🧩 Current Focus
 
-- Multi-source **RAG Systems** for knowledge retrieval  
-- AI Chatbots and **LLM-based applications**  
+- Multi source **RAG Systems** for knowledge retrieval  
+- AI Chatbots and **LLM based applications**  
 - **Machine Learning fundamentals** (regression, data analysis)  
-- Building **end-to-end AI products**  
+- Building **end to end AI products**  
 
 ---
 
@@ -36,7 +36,7 @@ Currently exploring advanced RAG systems still learning, so feedback is always w
 - Machine Learning  
 - Data Analysis  
 - Natural Language Processing (NLP)  
-- Retrieval-Augmented Generation (RAG)  
+- Retrieval Augmented Generation (RAG)  
 
 ### 💻 Programming & Development
 - Python, MySQL  
