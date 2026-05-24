@@ -45,10 +45,6 @@ Currently exploring advanced RAG systems still learning, so feedback is always w
 - Pandas, NumPy, Matplotlib  
 - CSV, JSON data handling  
 
-### ⚙️ Tools & Workflow
-- Git, GitHub  
-- VS Code, Jupyter Notebook  
-- Virtual Environments (venv), Linux CLI  
 
 ---
 
