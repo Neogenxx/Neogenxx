@@ -7,7 +7,7 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 Hi! I'm a Computer Science student at Woxsen University, focused on building real world applications using machine learning and generative AI.
 I enjoy working on practical projects involving RAG systems, data driven solutions, and backend APIs, while continuously improving my problem solving and development skills.
@@ -32,16 +32,16 @@ Currently exploring advanced RAG systems still learning, so feedback is always w
 
 ## 💻 Skills
 
-### 🧠 AI / Data Science
+###  AI / Data Science
 - Machine Learning  
 - Data Analysis  
 - Natural Language Processing (NLP)  
 - Retrieval Augmented Generation (RAG)  
 
-### 💻 Programming & Development
+###  Programming & Development
 - Python, MySQL  
 
-### 📊 Data Tools
+###  Data Tools
 - Pandas, NumPy, Matplotlib  
 - CSV, JSON data handling  
 
